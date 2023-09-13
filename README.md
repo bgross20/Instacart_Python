@@ -50,7 +50,19 @@ Multiple Excel CSV files that were provided and edited by CareerFoundry from its
 
 ## Tools
 Language: Python 
-Software: Jupyter Notebooks, NumPy, pandas, mathplotlib, Excel 
+Libraries: NumPy, pandas, mathplotlib, seaborn, scipy 
+Software: Jupyter notebooks, Excel 
 
 ## Skills Demonstrated 
 
+**Wrangling and Cleaning Data:** dropped columns, renamed columns, addressed mixed or incorrect data types, found and addressed missing values, and removed duplicates
+
+**Merging Data:** Selected and prepared data for merging, confirmed merge was successful, and exported final merge as a pickle file. 
+
+**Exploratory Analysis:** Explored basic descriptive statistics (max, min, quartiles, mean, standard deviation) for each variable. Also used histograms, scatterplots, bar, and line charges to explore the distributions of data. 
+
+**Derived New Variables:** Created new variables using if-statements, loc() function, and for-loops. New variables such as mariatal status and dependent status were created. Confirmed new data created via crosstables and value counts. 
+
+**Visualizing Data:** Used Mathplotlib and Seaborn to create histograms, line charts, bar charts, and stacked bar charts 
+
+**Reporting Results:** Provided an Excel file that explained answers to questions from sales/marketing as well as documenting the data population flow, consistency checks, data wrangling, and column derivations. 
