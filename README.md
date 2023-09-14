@@ -50,6 +50,7 @@ Multiple Excel CSV files that were provided and edited by CareerFoundry from its
 
 ## Tools
 Language: Python 
+
 Libraries: NumPy, pandas, mathplotlib, seaborn, scipy 
 Software: Jupyter notebooks, Excel 
 
